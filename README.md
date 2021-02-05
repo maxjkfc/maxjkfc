@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxjkfc&show_icons=true&theme=radical&count_private=true&layout=compact" alt="maxjkfc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxjkfc&" alt="maxjkfc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxjkfc&theme=radical&layout=compact" alt="maxjkfc" /></p>
 
